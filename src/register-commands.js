@@ -19,6 +19,10 @@ const commands = [
                 required: true
             },
         ]
+    },
+    {
+        name: 'riddle',
+        description: 'Solve Yae Mikos Secret Inazuman Riddle',
     }
 ]
 
