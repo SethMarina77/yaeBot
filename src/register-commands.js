@@ -20,10 +20,7 @@ const commands = [
             },
         ]
     },
-    {
-        name: 'riddle',
-        description: 'Solve Yae Mikos Secret Inazuman Riddle',
-    }
+    
 ]
 
 const rest = new REST({ version: '10' }).setToken(process.env.TOKEN);
